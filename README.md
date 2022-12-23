@@ -1,12 +1,12 @@
 This is a basic Rest Api CRUD application where you can find 3 different types of users:
--Superadmin with roleId: 1 (only 1 user is allowed)
--Admin with roleId: 3
--User with roleId: 5
+<br>-Superadmin with roleId: 1 (only 1 user is allowed)
+<br>-Admin with roleId: 3
+<br>-User with roleId: 5
 
 Permissions
--Superadmin has access to everything
--Admins have access to create/delete users and posts. Update post status
--Users have access to create/delete their own post and only view the others
+<br>-Superadmin has access to everything
+<br>-Admins have access to create/delete users and posts. Update post status
+<br>-Users have access to create/delete their own post and only view the others
 
 This project is done by Node Express and Mongodb
 
